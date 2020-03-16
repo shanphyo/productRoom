@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="choosequantity">
+        <item>Excellent quantity</item>
+        <item>Good quantity</item>
+        <item>Normal quantity</item>
+        <item>Poor quantity</item>
+    </string-array>
+    <string-array name="choosetype">
+        <item>Price</item>
+        <item>Quantity</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>Between</item>
+        <item>Greater Than</item>
+        <item>Less Than</item>
+    </string-array>
+</resources>
